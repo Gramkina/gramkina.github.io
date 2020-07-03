@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    background: #24050D;
+}
+canvas{
+    transform: scale(1, 1);
+}
+@font-face{
+	font-family: 'Gugi';
+	src: url('../font/Gugi-Regular.ttf');
+}
